@@ -4,6 +4,6 @@ Data about the persons should be hosted inside any Azure Supported database. It 
 Write the code in provided Web API project that will create 3 web api endpoints that will have the functionality:
 	1.Getting the list of persons
 	2.Adding new person
-	3.Get some example data from the applications runnig environment 
+	3.Get some settings data that is defined inside proper appsettings.json or corresponding environment under section MySettings
 	
 If you find it usefull you can added new projects but the WEB API project must stay as main entry point to the application.	
